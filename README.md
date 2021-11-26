@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-< src='https://i.imgur.com/K0N4z0j.gif' title='Money MonkeyVideo Walkthrough' width='' alt='Video Walkthrough' />
+<src='https://i.imgur.com/K0N4z0j.gif' title='Money MonkeyVideo Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
